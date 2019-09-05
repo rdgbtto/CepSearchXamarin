@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace CepSearch.Servico.Modelo
+﻿namespace CepSearch.Servico.Modelo
 {
     public class Endereco
     {
